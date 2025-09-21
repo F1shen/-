@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+Pillow
+jinja2
+pdfkit
+pdf2image
